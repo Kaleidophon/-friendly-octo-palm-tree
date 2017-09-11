@@ -1,1 +1,1 @@
-# -friendly-octo-palm-tree
+# friendly-octo-palm-tree
